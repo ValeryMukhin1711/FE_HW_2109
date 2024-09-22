@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+
+}
+.post {
+    margin-bottom: 20px;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+.post:last-child {
+    border-bottom: none;
+}
+h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+p {
+    font-size: 1em;
+    color: #333;
+}
